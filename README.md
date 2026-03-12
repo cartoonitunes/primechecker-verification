@@ -2,8 +2,8 @@
 
 Proof of source code for PrimeChecker:
 
-- [`0x66D796E7AE8608BbA361c97bA7682689cc5Bf320`](https://ethereumhistory.com/contracts/0x66D796E7AE8608BbA361c97bA7682689cc5Bf320) — deployed Aug 7 2015 (block 48,790)
-- [`0xDAE5047277a2cc3d0013Fc0cF4A12817b9b85C33`](https://ethereumhistory.com/contracts/0xDAE5047277a2cc3d0013Fc0cF4A12817b9b85C33) — deployed Aug 7 2015 (block 48,827)
+- [`0x66D796E7AE8608BbA361c97bA7682689cc5Bf320`](https://ethereumhistory.com/contract/0x66D796E7AE8608BbA361c97bA7682689cc5Bf320) — deployed Aug 7 2015 (block 48,790)
+- [`0xDAE5047277a2cc3d0013Fc0cF4A12817b9b85C33`](https://ethereumhistory.com/contract/0xDAE5047277a2cc3d0013Fc0cF4A12817b9b85C33) — deployed Aug 7 2015 (block 48,827)
 
 Both contracts share identical bytecode, deployed 9 minutes apart by `0x6b4971...` — day 8 after Frontier genesis.
 
